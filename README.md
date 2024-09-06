@@ -1,1 +1,1 @@
-# python_course_colab_notebooks
+# colabcnotebooks for the course.
