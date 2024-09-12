@@ -1,1 +1,1 @@
-# colabcnotebooks for the course.
+# colab notebooks for the course.
