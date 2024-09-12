@@ -1,1 +1,1 @@
-WEGAGadGBSDBVD
+The notes in pdf.
